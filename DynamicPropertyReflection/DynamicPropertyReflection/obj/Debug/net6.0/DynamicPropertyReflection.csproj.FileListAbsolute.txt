@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\bin\Debug\net6.0\DynamicPropertyReflection.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\bin\Debug\net6.0\DynamicPropertyReflection.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\bin\Debug\net6.0\DynamicPropertyReflection.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\bin\Debug\net6.0\DynamicPropertyReflection.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\bin\Debug\net6.0\DynamicPropertyReflection.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\DynamicPropertyReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\DynamicPropertyReflection.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\DynamicPropertyReflection.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\DynamicPropertyReflection.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\DynamicPropertyReflection.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\refint\DynamicPropertyReflection.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\DynamicPropertyReflection.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\DynamicPropertyReflection.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\30-11-2023\DynamicPropertyReflection\DynamicPropertyReflection\obj\Debug\net6.0\ref\DynamicPropertyReflection.dll
